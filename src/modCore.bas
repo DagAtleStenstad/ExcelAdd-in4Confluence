@@ -3,7 +3,7 @@ Option Explicit
 
 Public activeCellAddress As String
 Public excelAddInn4ConfluenceCommand As String
-Private confluenceContentCache As Object
+Public confluenceContentCache As Object
 
 Public gclsAppEvents As clsAppEvents                          'https://stackoverflow.com/questions/24683155/including-thisworkbook-code-in-excel-add-in
   
