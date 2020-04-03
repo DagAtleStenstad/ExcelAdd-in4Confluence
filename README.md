@@ -20,7 +20,7 @@ Excel will come up with suggestions as you write a formula. In the suggestion li
 
 ![ConfluenceSettings.png](resources/images/ConfluenceSettings.png)
 
-**=ConfluenceLookupTableValue(ConfluncePageID, GetColum, WhereColumn, Value )** Lookup table value
+**=ConfluenceLookupTableValue(ConfluncePageID; GetColum; WhereColumn; Value )** Lookup table value
 
 To [get the Confluence page ID](https://confluence.atlassian.com/confkb/how-to-get-confluence-page-id-648380445.html).
 
